@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Stanford Liao"
-  avatar           : "Kevin Liao Picture.jpg"
+  avatar           : "/assets/images/Kevin Liao Picture.jpg"
   bio              : "2nd Year Masters Student in Biostatistics at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         :
