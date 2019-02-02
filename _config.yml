@@ -11,7 +11,7 @@ title                    : "Kevin Stanford Liao"
 title_separator          : "-"
 name                     : "Kevin Liao"
 description              : "personal description"
-url                      : https://kliao12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://kliao12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :  #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Kevin Stanford Liao"
   bio              : "2nd Year Masters Student in Biostatistics at the University of Michigan"
   location         : "Ann Arbor, MI"
-  avatar           : "KL_pic.jpg"
+  avatar           : "/files/KL_pic.jpg"
   employer         :
   #googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ksliao@umich.edu"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
