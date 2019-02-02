@@ -4,7 +4,6 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-
 ## Biostat 615 Project: C++ Implementation of GuanRank  
 * Synopsis: We implemented GuanRank (Non-parametric algorithm to transform censored survival data to hazard ranks) in C++
 to improve computational speed and memory efficiency. Our C++ version vastly outperforms a python implementation of GuanRank.
