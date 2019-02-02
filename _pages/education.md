@@ -5,8 +5,7 @@ permalink: /education/
 author_profile: true
 comments: true
 ---
-     
-     
+  
 ## Undergraduate Education
 University of North Carolina at Chapel Hill           
 BSPH in Biostatistics           
