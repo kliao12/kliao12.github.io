@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Stanford Liao"
-  avatar           : "/assets/images/KL_pic.jpg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "https://kliao12.github.io/assets/images/KL_pic.jpg"
+  bio              : "Current 2nd year masters student in Biostatistics at the University of Michigan"
+  location         : "Ann Arbor, MI"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
@@ -95,19 +95,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "kliao12"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "kevin-liao-2181498a/"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
