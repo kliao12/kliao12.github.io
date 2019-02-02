@@ -5,5 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-[Click here for an up to date CV](https://kliao12.github.io/files/Kevin Liao CV.pdf)
-      
+[Click here for an updated CV](https://github.com/kliao12/kliao12.github.io/blob/master/files/Kevin%Liao%CV.pdf)
+
+
