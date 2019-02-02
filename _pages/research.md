@@ -5,7 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-
+   
+  
 # The Effect of Mutation Subtypes on the Allele Frequency Spectrum   
 * Synopsis: This works considers the effect of local nucleotide context on the distribution of allele frequencies in a population. Mutation rate heterogeneity and biased gene conversion are two mechanisms that affect the AFS through sequence context. In addition, differences in the AFS among mutation subtypes results in drastically different AFS-based demographic inference methods which suggests current methods are biased by failing to account for local sequence context.
 * [Poster presented at MidWest PopGen Conference](https://github.com/kliao12/kliao12.github.io/blob/master/files/Midwest%20PopGen%20Poster.pdf)
