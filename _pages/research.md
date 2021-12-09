@@ -14,7 +14,7 @@ author_profile: true
 ## A Novel Stacking Framework for Polygenic Risk Prediction in Admixed Individuals  
 * Synopsis: This works aims to optimize polygenic risk prediction of complex traits in admixed individuals through leveraging GWAS summary statistics from the ancestral groups constituing ther admixture. In admixed African Americans, we propose a stacking framework where we stratify the genome into 5Mb non-overlapping windows. In each local window, a penalized regressions model incorporating population-specific effect sizes and local ancestry are fit in local 5Mb windows to create local predictions in each window, optimized for an individual's unique local ancestry. We then fit a second level penalized regression to aggregate local predictions genome wide into a single polygenic risk score  
 
-* [Poster presented at 2021 American Society of Human Genetics](https://github.com/kliao12/kliao12.github.io/blob/master/files/Midwest%20PopGen%20Poster.pdf)
+* [Poster presented at 2021 American Society of Human Genetics](https://github.com/kliao12/kliao12.github.io/blob/master/files/ASHG%202021%20Final.pptx)
 
 ## Comparing Similarity Measures over RNA-Seq Derived Gene Expression Profiles
 *  Synopsis: This works compares 5 similarity measures (Euclidean distance, pearsons correlation, spearmans correlation, median absolute deviation, poisson similarity) and their effect on the performance of a K-Nearest Neighbors classifier. Samples were classified to specific tissue types based on their transcriptome. Ultimately, the commonly used pearsons correlation was found to provide the highest classification accuracy. 
