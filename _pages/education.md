@@ -7,10 +7,14 @@ comments: true
 ---
 ## Undergraduate Education
 University of North Carolina at Chapel Hill           
-BSPH in Biostatistics           
+BSPH in Biostatistics, minor in Computer Science           
 Graduated: December 2016
 
 ## Graduate Education
 University of Michigan              
 MS in Biostatistics             
-Expected Graduation: May 2019
+Graduaed: May 2019
+
+University of Michigan              
+PhD in Biostatistics             
+Expected Graduation: December 2022
