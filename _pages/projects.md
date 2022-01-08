@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Statistical Computing Project: C++ Implementation of GuanRank  
+## Statistical Computing: C++ Implementation of GuanRank  
 * Synopsis: We implemented GuanRank (Non-parametric algorithm to transform censored survival data to hazard ranks) in C++
 to improve computational speed and memory efficiency. Our C++ version vastly outperforms a python implementation of GuanRank.
 
@@ -18,7 +18,7 @@ outcomes, we implemented a linear mixed effects model with a random intercept an
 
 [Biostat 653 Report Here](https://github.com/kliao12/kliao12.github.io/blob/master/files/653_Final_Project_Paper.pdf)
 
-## Bayesian Inference Project: Analyzing Bike Rental Data using a Bayesian Framework  
+## Bayesian Inference: Analyzing Bike Rental Data using a Bayesian Framework  
 * Synopsis: We wanted to identify factors affecting the number of bike rentals in Washington DC. Using a bayesian framework, we implemented
 a poisson regression with a spike and slab prior to perform variable selection by inspecting the posterior means for each predictor. 
 
