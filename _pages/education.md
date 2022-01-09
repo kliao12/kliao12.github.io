@@ -13,7 +13,7 @@ Graduated: December 2016
 ## Graduate Education
 University of Michigan              
 MS in Biostatistics             
-Graduaed: May 2019
+Graduated: May 2019
 
 University of Michigan              
 PhD in Biostatistics             
