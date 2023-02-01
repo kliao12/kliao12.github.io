@@ -11,4 +11,4 @@ author_profile: true
 ## Biostat 666: Statistical Models And Numerical Methods In Human Genetics
 * Synopsis: Biostat 666 is an graduate-level course on core concepts and methods used to analyze human genetic variation. 
 * As a guest lecturer, I developed the curriculum and taught a class on "Estimation of Effect Sizes in GWAS and Polygenic Risk Scores". 
-* See for slides
+* See [here for slides](https://github.com/kliao12/kliao12.github.io/blob/master/files/Biostat%20666%20Effect%20Size%20and%20PRS%20.pdf)
