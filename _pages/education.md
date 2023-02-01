@@ -17,4 +17,4 @@ Graduated: May 2019
 
 University of Michigan              
 PhD in Biostatistics             
-Expected Graduation: December 2022
+Expected Graduation: August 2023
